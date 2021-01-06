@@ -2,13 +2,19 @@
 
 My name is Mrinmoy Dutta and I'm a 2nd year computer science student at UCSD. Here I'll share some projects that I've been working on.
 
-Some of the programming languages that I've worked in are as follows:
+Here are some of the languages and tools I've worked on:
 
-- Java
-- C++
-- Python
-- Dart
-- Bash
+- Languages
+  - Java
+  - C++
+  - Python
+  - Dart
+  - Bash
+- Tools/Frameworks/etc
+  - Flutter
+  - Spring
+  - Tomcat
+  - Elasticsearch
 
 ## Projects
 
